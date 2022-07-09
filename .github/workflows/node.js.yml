@@ -29,3 +29,4 @@ jobs:
     - run: yarn
     - run: yarn run build --if-present
     - run: yarn test
+    - run: pm2 restart frontend
