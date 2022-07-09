@@ -8,6 +8,7 @@ function App() {
 				<img src={logo} className="App-logo" alt="logo" />
 				<p>Hello, Welcome from the DEV Zone.</p>
 				<p>Let's learn react from www.reactjs.com</p>
+				<p>Let's test CICD another time.</p>
 			</header>
 		</div>
 	);
